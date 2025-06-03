@@ -1,1 +1,0 @@
-###Hallo ini Dokumentasi UAS kami untuk mata kuliah Machine Learning

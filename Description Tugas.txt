@@ -1,0 +1,2 @@
+Hallo ini Dokumentasi UAS kami untuk mata kuliah Machine Learning
+kemungkinan bakalan kerja image processing dan pake YOLO karna belum adanya informasi uas lebih lanjut jadi segini dulu
